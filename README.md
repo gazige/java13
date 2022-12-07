@@ -1,4 +1,5 @@
 #linux
+
 export JAVA_HOME=/opt/soft/jdk-13.0.2
 export JRE_HOME=${JAVA_HOME}/jre
 export CLASSPATH=.:${JAVA_HOME}/lib:${JRE_HOME}/lib:$CLASSPATH
